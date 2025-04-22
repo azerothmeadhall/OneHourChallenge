@@ -1,0 +1,10 @@
+<Ui xmlns="http://www.blizzard.com/wow/ui/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.blizzard.com/wow/ui/">
+    <Frame name="OneHourTimerFrame" parent="UIParent" frameStrata="BACKGROUND" enableMouse="true" movable="true" clampedToScreen="true">
+        <Size>
+            <AbsDimension x="200" y="100" />
+        </Size>
+        <Anchors>
+            <Anchor point="CENTER" />
+        </Anchors>
+    </Frame>
+</Ui>
